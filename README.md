@@ -1,5 +1,4 @@
 # 🦔 Sâmeque Kadmiel 
-**`Denvolvedor back-and`**
 
 Olá! Tudo bem? Me chamo Sâmeque Kadmiel, tenho 21 anos e atualmente curso Ciência da Computação na UFRPE. Quer me conhecer melhor? Acesse meu perfil no Instagram "[S Kodes](https://www.instagram.com/s_k0des?igsh=MTJybnBmODRlNGs2dw==)"
 
