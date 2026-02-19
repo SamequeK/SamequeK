@@ -46,23 +46,6 @@ Olá! Tudo bem? Me chamo Sâmeque Kadmiel, tenho 21 anos e atualmente curso Ciê
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<img 
-    align="left" 
-    title="Github Stats" 
-    height="200" 
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=Samequek&show_icons=true&theme=dark&include_all_commits&locale=pt-br" 
-/>
-
-<img 
-    align="left" 
-    title="Github Stats" 
-    height="200" 
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamequeK&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>       
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samequek/Samequek/output/pacman-contribution-graph-dark.svg">
